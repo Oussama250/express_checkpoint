@@ -60,6 +60,8 @@ export default class App extends React.Component {
                 )
               })}
               {console.log(this.showCard(this.state.players[0]._id))}
+
+
             </div>
             
         )
